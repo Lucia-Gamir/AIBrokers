@@ -1,0 +1,403 @@
+sentence,sentiment
+"Tip : Use comma ( , ) to separate multiple quotes .",NEGATIVE
+Learn more ...,POSITIVE
+"Tue , Oct 20 , 2015 , 03:57 BST - UK",NEGATIVE
+"Markets open in 4 hrs 3 mins Asia drops as commodities languish , loonie dips on Canada vote Reuters – 15 minutes ago A man holding an umbrella walks in front of an electronic stock quotation board outside a brokerage in … By Shinichi Saoshiro TOKYO ( Reuters ) - Asian equities fell across the board on Tuesday after commodity prices languished in the wake of China growth woes and dampened risk sentiment , while the euro hovered near a 10 - day low ahead of a European Central Bank meeting that could open the door for more monetary easing .",NEGATIVE
+"The Canadian dollar , already under pressure from sliding crude oil prices , faced extra headwinds as Canada 's Liberal Party , was tipped to won Monday 's general election which would pave the way for increased government spending .",NEGATIVE
+"According to a vote projection by CTV News , Justin Trudeau 's Liberals were set to topple Prime Minister Stephen Harper 's Conservative government , which is known for its fiscal conservatism .",NEGATIVE
+Canada 's loonie dipped 0.2 percent to C$ 1.3038 to the dollar ( CAD=D4 ) after slumping 0.9 percent overnight on the prospect of voters opting for a prime minister who plans to run deficits to increase infrastructure spending .,NEGATIVE
+MSCI 's broadest index of Asia -Pacific shares outside Japan shed 0.4 percent .,NEGATIVE
+Shanghai shares (. SSEC ) dropped 0.4 percent and South Korea 's Kospi ( . KS11 ) dipped 0.1 percent .,NEGATIVE
+Japan 's Nikkei ( . N225 ) bucked the trend and gained 0.3 percent .,POSITIVE
+Australian stocks ( . AXJO ) lost 0.4 percent as worries about China weighed on mining and energy stocks following Monday's China GDP data .,NEGATIVE
+""" The official GDP figures show growth slowed to 6.9 % y/y in Q3 , down from 7.0 % y/y in both Q1 and Q2 .",NEGATIVE
+"Unfortunately , these figures need to be taken with a pinch of salt , "" economists at Capita Economics wrote .",NEGATIVE
+""" Flaws with how the GDP deflator is calculated , along with political pressure to meet growth targets that have become increasingly at risk , have meant that official growth rates have not slowed as quickly as most third party measures of growth in recent years . """,NEGATIVE
+"Three - month copper on the London Metal Exchange ( CMCU3 ) stood little changed at $ 5,206.50 a metric ton ( 1.1023 tons ) after shedding 1.4 percent overnight , while Brent crude oil ( LCOc1 ) crawled up 0.3 percent to $ 48.76 a barrel after sinking 3 percent overnight as China 's latest data added to concerns over global growth .",NEGATIVE
+""" Pressure on the metals and mining industry has been unrelenting and to be honest , does n't look like improving any time soon , "" said commodity strategist Daniel Hynes of ANZ in Sydney .",NEGATIVE
+""" The data out yesterday was particularly worrying for commodities considering electricity production , industrial production , fixed asset investment all fell .",NEGATIVE
+There 's been an implicit feeling that demand would pick up in the fourth quarter .,NEGATIVE
+"Those numbers potentially derail that outcome . """,NEGATIVE
+"In currencies , the euro struggled as investors braced for the ECB potentially flagging additional easing measures when its policymakers meet on Thursday .",NEGATIVE
+The common currency was little changed at $ 1.1334 ( EUR= ) after reaching a 10 - day trough of $ 1.1306 .,NEGATIVE
+The dollar was nearly flat at 119.50 yen ( JPY = ) while the dollar index ( . DXY ) also held steady at 94.903 after a 0.2 percent gain overnight .,NEGATIVE
+"Following a 2 - day surge , the S&P 500 ( . SPX ) and the Dow ( . DJI ) ended nearly flat on Monday as advances in top tech and biotech names were offset by caution at the start of a heavy week of earnings . [ .N ] ( Reporting by Shinichi Saoshiro ; Additional reporting by Melanie Burton in Melbourne . ; Editing by Eric Meijer )",NEGATIVE
+"With his impressive performance , Indian - American Louisiana governor Bobby Jindal appeared to come out as joint winner of the second tier Republican presidential debate , multiple news outlets and political analysts have said .",POSITIVE
+Fox News flash polls declared Carly Fiorina and Jindal to be the winners of the GOP ’s undercard debate .,POSITIVE
+"Meanwhile , Former presidential candidate Michele Bachmann said that Jindal won the yesterday night debate .",POSITIVE
+"“ Cheers to @BobbyJindal , it ’s time for Republicans in Washington to fight ! ” she said adding , “ Watching the #GOPDebate with millenials , their response is favorable towards @ BobbyJindal whose responses have been strong and specific , ” she wrote on twitter .",POSITIVE
+"According to the local Advertiser newspaper , Jindal delivered a solid , if less than spectacular , performance in debate .",POSITIVE
+"“ I ’d probably place him right in the middle along with Rick Santorum , ” said political analyst Josh Stockley of the University of Louisiana at Monroe ’s .",POSITIVE
+“ There are two goals in a debate — get through it without making a major mistake and then try to distinguish yourself from the other candidates .,POSITIVE
+"I thought Gov . Jindal got through without making a mistake , but I ’m not sure he distinguished himself from the other candidates on the stage , ” he was Quote : d as saying .",NEGATIVE
+"In a statement , Jindal ’s campaign manager Timmy Teepell declared victory .",POSITIVE
+"“ We saw plenty of smooth talking and famous names running for President , but only one candidate in the race has the backbone , the bandwith and the experience to get the job done as President – Governor Jindal , ” he said .",NEGATIVE
+“ President Obama ’s failure as President shows why we cannot trust a candidate who needs on - the - job - training no matter how well they speak .,NEGATIVE
+Governor Jindal is the most substantive of all the candidates in the field .,POSITIVE
+"He is a full spectrum conservative who will endorse , and not hide , his conservative principles , ” Teepell said .",POSITIVE
+"First Published on August 07 , 2015 9:35 am",POSITIVE
+New York : US stocks rose slightly in early trading Thursday as investors look over a mixed report on the job market .,NEGATIVE
+"While payrolls grew overall , many people gave up looking for work and wage growth stalled .",NEGATIVE
+Bond prices rose .,POSITIVE
+"The Dow Jones industrial average rose 23 points , or 0.1 % , to 17,781 as of 10:16 am Eastern time .",NEGATIVE
+"The Standard & Poor ’s 500 index gained three points , or 0.1 % , to 2,080 .",NEGATIVE
+"The Nasdaq composite climbed five points , or 0.1 % , to 5,018 .",NEGATIVE
+"US employers added 223,000 jobs in June and the unemployment rate fell to a seven - year low of 5.3 % .",NEGATIVE
+But the rate fell mostly because many people out of work gave up on trying to find a job and were no longer counted as unemployed .,NEGATIVE
+"The report also said average hourly earnings rose 2 % , slightly lower than consensus .",NEGATIVE
+"Thomas Simons , an economist at the investment bank Jefferies , wrote in a report that the wage numbers showed a “ glaring sign of weakness . ”",NEGATIVE
+"Investors bought bonds in anticipation that the inflation , and interest rates , will remain low .",NEGATIVE
+"The price of the benchmark 10 - year treasury note rose , pushing down its yield to 2.38 % from 2.45 % just before the jobs report came out .",NEGATIVE
+Greece ’s government is pressing ahead with its plan to put austerity measures to voters after European creditors rebuffed its latest proposal for a new aid program .,POSITIVE
+Greece failed to repay a loan to the International Monetary Fund that was due on Tuesday after talks between the nation and its creditors broke down late last week .,NEGATIVE
+"“ The latest news from Greece was somewhat ambiguous , ” Mizuho Bank analysts said in a commentary .",NEGATIVE
+"“ Markets appear to have shifted attention to U.S . data releases , albeit temporarily . ”",NEGATIVE
+"Health Net rose $ 8.55 , or 13 % , to $ 73.64 after Medicaid coverage provider Centene said it will pay about $ 6.3 billion to buy the company .",NEGATIVE
+The deal is more evidence of managed - care companies looking to bulk up in response to the federal health care overhaul .,NEGATIVE
+"US - listed shares of BP rose $ 1.90 , or 5 % , to $ 41.18 after the oil driller reached an $ 18.7 billion settlement with several states to resolve litigation over the 2010 Gulf of Mexico oil spill .",NEGATIVE
+Germany ’s DAX slipped 0.3 % and France CAC 40 fell 0.6 % .,NEGATIVE
+Britain ’s FTSE 100 rose 0.5 % .,POSITIVE
+Japan ’s Nikkei 225 rose 1 % and South Korea ’s Kospi added 0.5 % .,POSITIVE
+Hong Kong ’s Hang Seng gained 0.1 % and Australia ’s S&P / ASX 200 advanced 1.5 % .,POSITIVE
+But China ’s Shanghai Composite slumped 3.5 % .,NEGATIVE
+US markets will be closed Friday in observance of the Independence Day holiday .,NEGATIVE
+"IRON ore has endured one of its worst sessions on record , with a fresh 11 per cent plunge taking its price to a 10 - year low .",NEGATIVE
+"At the end of the latest session , benchmark iron ore for immediate delivery to the port of Tianjin in China was trading at $ US44.10 a tonne , down 11.3 per cent from its prior close of $ US49.70 a tonne .",NEGATIVE
+"Over the past five sessions unprecedented losses of 5.3 , 3 , 3.9 , 4.4 and 11.3 per cent have been recorded , leading it down 25 per cent from $ US58.90 a tonne through this period .",NEGATIVE
+The current price is a record low since The Steel Index began releasing its data in 2008 and the lowest mark seen since 2005 when miners used to set yearly benchmark contracts with Chinese steelmakers .,NEGATIVE
+"In April the commodity fell as low as $ US46.70 a tonne , but many hoped that would prove the floor price in the ongoing bear market , given a strong recovery back to $ US65 a tonne through May and June .",NEGATIVE
+"However , the last month has seen an array of red signals rear their head , and the commodity enjoying just one positive session since June 12 .",NEGATIVE
+"Chief among the current concerns is the health of China 's markets and broader economy , given its dominant position as the world 's largest consumer of iron ore .",POSITIVE
+"China ’s benchmark Shanghai stock index closed down 5.9 per cent yesterday , taking it to a three - month low after losing around a third of its value since a high was hit in mid-June .",NEGATIVE
+"“ China ’s stock market rout is now spreading to other financial markets , creating a sweeping sense of panic and liquidity crunch , ” Zheng Ge , an analyst at Wanda Futures , said .",POSITIVE
+"Iron ore has copped the brunt of the selling beyond Chinese stocks , though nickel and copper have also been especially hard hit .",NEGATIVE
+"“ Fears about the risks to financial stability and the wider economy have contributed to negative sentiment toward commodities , ” analysts from Capital Economics added in a research note .",NEGATIVE
+"Persistent downgrades from analysts have added to the weak sentiment , alongside rising supply out of Brazil and Australia and slumping oil prices , which lowers the price at which tonnes will likely come out of the market .",NEGATIVE
+"Port stockpiles in China have also risen for the first time since April over the past week , furthering concerns about a growing oversupply through the remainder of the year as Chinese steel demand slumps .",NEGATIVE
+LOCAL PAIN,NEGATIVE
+"At current prices the only miners that are likely trading in the black are the so - called ' big three ' of the sector : Vale , Rio Tinto and BHP Billiton .",NEGATIVE
+"The likes of BC Iron , Mt Gibson Iron and Atlas Iron will all likely be operating in the red should prices stay at $ US44.10 , while Fortescue Metals will currently be marginal at best as it pursues a goal of reducing its break - even price to $ US39 a tonne next year .",NEGATIVE
+"A falling Australian dollar has helped offset the pain , but its 5 per cent retreat over the past week has not been enough to cover the 25 per cent drop in ore prices .",NEGATIVE
+"The news may also frustrate Atlas ' push to raise $ 180 million and while its boss remained confident on Tuesday of an overbid on the deal , the iron ore price slump of over 15 per cent since will likely challenge that optimism .",NEGATIVE
+"In local trade on Wednesday , Fortescue share prices hit a six - year nadir after giving up over 6 per cent , while BC Iron sunk over 8 per cent and Mt Gibson retreated 7.5 per cent .",NEGATIVE
+""" Anything with a four in front of the iron ore price ... does make us pretty nervous but we have to work to where the price is , "" BC Iron chairman Tony Kiernan told the ABC .",NEGATIVE
+""" If it was to remain this way for the next couple of months , it would be pretty challenging to say the least . """,NEGATIVE
+Local giants BHP and Rio both yielded just over 3 per cent in Australian trade on Wednesday .,NEGATIVE
+"Falls were more sedate in London trade , with BHP sliding 1.5 per cent and Rio inching down 0.3 per cent , though both underperformed a 1 per cent lift in the FTSE 100 .",NEGATIVE
+Iron From China 43:18,POSITIVE
+Play video,NEGATIVE
+"Follow the journey of iron , from where it is mined from to the plants where the hard work continues as the raw metals are refined and processed .",POSITIVE
+Oovvuu 24 Mar 2015 TV / Science TV / Series TV / Nature TV / Technology TV / Documentary,POSITIVE
+Iron ore hit by historic collapse,NEGATIVE
+"Port Hedland cafe owner Ray Sampson says those who want to turn the port town into something that resembles Lygon Street , Melbourne , are "" Pilbara princesses "" .",NEGATIVE
+"Simon Phelps by Jonathan Barrett Port Hedland cafe and eatery owner Ray Sampson says people who want to transform the working iron ore export precinct to include an upmarket cafe strip , high - end apartments and a grand marina are dreaming .",POSITIVE
+""" People who come here and think it 's going to be like Lygon Street in Melbourne do n't understand : they are Pilbara princesses , "" said Mr Sampson , who has given a bit of widely used mining slang a new meaning .",NEGATIVE
+""" This is a workingman 's town – it 's just not feasible . """,NEGATIVE
+But many locals of the West Australian town and their political representatives say it 's time Port Hedland had the facilities to match the riches that flow through the town .,POSITIVE
+"The development is earmarked to occur in the town's West End ; with the romantically industrious views of a working port , and vision of the waiting ships glistening under the Pilbara sun .",POSITIVE
+"But the regional city 's most important employer , BHP Billiton , thinks it is a stupid idea .",NEGATIVE
+""" BHP Billiton supports the town 's aspiration of a waterfront and landside development in Port Hedland ; however , it believes Cooke Point is the better location for the proposed development , "" a BHP spokesperson said , referring to a coastal area away from the port .",NEGATIVE
+""" Our advocacy has focused on our concern relating to the land use conflict with port operations . """,POSITIVE
+"For major industrial players like BHP , attracting more people to reside , drink coffee and take out their yacht at one of the world 's busiest ports makes little sense .",NEGATIVE
+"Tug boats already need to beep their horns at unaware fisherman who have parked their tinnies in the water thoroughfare , and the dust from stock piles and ship loading operations poses a health risk to a more densely population area and cosmetic threat to any new development .",NEGATIVE
+"Critically , if iron ore exporters are ultimately required to dramatically change their loading and stock pile practices to minimise dust and noise for a developing West End , that will come at a financial cost to the resources companies .",NEGATIVE
+Nationals ' Pilbara MP Brendon Grylls said BHP was being obstructionist .,NEGATIVE
+""" We are just disappointed that all of Port Hedland has bent over backwards to meet BHP 's concerns .",NEGATIVE
+"Despite this , they oppose it , "" Mr Grylls said .",NEGATIVE
+""" BHP does n't want any development in the West End . """,NEGATIVE
+Resident opinion is divided .,NEGATIVE
+Social media posts by boating enthusiasts overwhelmingly support the marina development .,POSITIVE
+"One Port Hedland Yacht Club member said : "" [ BHP ] do n't care about the people of the town .",NEGATIVE
+"It 's just a factor in their way to profit . """,NEGATIVE
+The world 's biggest mining company also has a large property portfolio in town .,POSITIVE
+"This controversially includes several vacant lots in the West End , which had led to accusations it is blocking development .",NEGATIVE
+BHP denies doing so .,NEGATIVE
+"For many , the West End development plans have long been considered a pipe dream , especially given the downturn in commodity prices and pullback in investment .",NEGATIVE
+"Then listed property developer Finbar announced this year it would proceed with the first stage of a project that includes 109 apartments , five commercial outlets and a café in the West End .",POSITIVE
+"It recently received development approval , despite protest from BHP .",POSITIVE
+"There is , however , an important caveat .",NEGATIVE
+Finbar 's deal to buy a disused hospital site from the state government to build the project relies on it securing significant pre-sales .,POSITIVE
+"If it does n't , then it can back out of the deal .",NEGATIVE
+Finbar managing director Darren Pateman said the developer had up to 12 months to make a final investment decision .,NEGATIVE
+"He said BHP had opposed Finbar 's plans , which included a recent submission to try to get the development approval refused .",NEGATIVE
+It 's not clear how the West End battle will end .,NEGATIVE
+"What is clear , however , is that BHP wo n't be helping Finbar meet its pre-sales targets .",NEGATIVE
+"BNP Paribas SA is telling investors to buy shares in Chinese brokerages , arguing that the government will do “ whatever it takes ” to restore confidence in a turbulent and slumping stock market .",NEGATIVE
+"“ It ’s now all about confidence , as fear will trigger forced liquidations and panic selling , ” Hong Kong - based analyst Judy Zhang wrote in a note on Friday .",NEGATIVE
+"The government may slow initial public offerings and cut a stamp duty as part of a likely “ basket of measures ” to stabilize the market , according to Zhang .",NEGATIVE
+"While the Shanghai Composite Index extended its declines on Friday , the analyst upgraded her rating of the nation ’s biggest brokerage , Citic Securities Co . , to “ buy ” from “ reduce . ”",NEGATIVE
+"The benchmark fell below the 4,000 level on Thursday for the first time since April , as investors trading with borrowed money continued to unwind their positions .",NEGATIVE
+"Moneylife » Anshu Gupta , Sanjiv Chaturvedi win Magsaysay awards 42926 Anshu Gupta , Sanjiv Chaturvedi win Magsaysay awards 0 Comments ,",POSITIVE
+Be the first to comment + COMMENT IANS | 29/07/2015 01:51 PM,POSITIVE
+"| Social worker Anshu Gupta and former AIIMS officer Sanjiv Chaturvedi on Wednesday won the prestigious Ramon Magsaysay awards for "" enterprising leadership "" and for exposing corruption .",POSITIVE
+"The Ramon Magsaysay Award Foundation said Gupta was being recognized for "" his creative vision in transforming the culture of giving in India , his enterprising leadership in treating cloth as a sustainable development resource for the poor "" .",POSITIVE
+"The award citation also credited Gupta with "" reminding the world that true giving always respects and preserves human dignity "" .",POSITIVE
+"The foundation said Chaturvedi was being recognized for "" his exemplary integrity , courage and tenacity in uncompromisingly exposing and painstakingly investigating corruption in public office , and his resolute crafting programmes and system improvements to ensure that government honourably serves the people of India "" .",POSITIVE
+"Established in 1957 , the Ramon Magsaysay Award is Asia 's highest honour and is widely regarded as the region 's equivalent of the Nobel Prize .",POSITIVE
+"Gupta heads the NGO Goonj , which believes in reusing clothes and other material to turn into a valuable resource , to create "" a parallel economy which is not cash - based but trash - based "" .",NEGATIVE
+"An elated Gupta told IANS : "" I am certainly very happy to receive this award ...",POSITIVE
+"Our work has been recognized . """,POSITIVE
+Chaturvedi said he would make a statement later in the day .,POSITIVE
+"Other winners announced on Wednesday are Kommaly Chanthavong ( Laos ) , Ligaya Fernando - Amilbangsa ( The Philippines ) and Kyaw Thu ( Myanmar ) .",POSITIVE
+The Magsaysay awards celebrate the memory and leadership example of the third Philippine president after whom the award is named .,POSITIVE
+It is given every year to individuals or organisations in Asia who manifest the same selfless service and transformative influence that ruled the life of the late Filipino leader .,POSITIVE
+The five 2015 Magsaysay awardees join the community of 307 other Magsaysay laureates who have received the honour to date .,POSITIVE
+More in Moneylife,NEGATIVE
+"Tip : Use comma ( , ) to separate multiple quotes .",NEGATIVE
+Learn more ...,POSITIVE
+"Tue , Aug 4 , 2015 , 16:35 BST - UK Markets closed Just Eat delivers surge in revenues and profits By Ben Martin | Telegraph – 15 minutes ago 7.00 0.00",POSITIVE
+"The online takeway service has dismissed concern that it will be hurt by new entrants into the market Just Eat ( Other OTC : JSTLF - news ) has brushed off concern it faces mounting competition from rivals muscling into the online food delivery industry after reporting that first - half orders , revenues and profits all surged by more than 50 pc .",NEGATIVE
+"Revenues for the six months to the end of June climbed 54 pc to £ 107.8 m , pre-tax profits were up 63 pc to £ 14 m , and orders rose by 52 pc to 41.9 m , with the FTSE 250 company boosted by a 59 pc increase in the number of its active users to 11m .",POSITIVE
+"Just Eat , a web - based platform that acts as go - between linking takeaway restaurants with customers , now expects to post full - year revenues of £ 230 m , up from an earlier forecast of just above £ 200 m , as it continues to grow at break - neck speed .",NEGATIVE
+"In the UK , which accounts for 71 pc of group sales , revenues increased by 48 pc to £ 76.9 m .",POSITIVE
+"David Buttress , chief executive , said it would be “ many many year ’s time ” before growth in the UK slowed to the pace seen in Denmark , a mature market that experienced a 15 pc increase in sales on an underlying basis .",NEGATIVE
+"“ We have a tonne of runway left to shoot for , ” he said .",NEGATIVE
+“ Seven out of 10 orders in the UK are still placed on the telephone . ”,NEGATIVE
+"Nevertheless , there are worries that competition is rising .",NEGATIVE
+"Nick Batram , analyst at Peel Hunt , warned investors that Just Eat could come under threat because “ the likes of Amazon and Uber are all coming in with slightly different business models ” .",NEGATIVE
+"He cautioned : “ Ultimately , as the big boys move in and competition from alternative models increases , there is potentially a risk to margins in the long - term . ”",NEGATIVE
+"However , Mr Buttress , who has led Just Eat since January 2013 , was confident his company would see off its rivals .",POSITIVE
+"“ It ’s always been a very competitive place , there ’s nothing new in that , ” he said , noting that Just Eat had faced down the challenges posed by Groupon ( NasdaqGS : GRPN - news ) , SeamlessWeb and lastminute.com over the past decade .",NEGATIVE
+"American companies such as Amazon would have difficulty competing , Mr Buttress argued , as “ you need to have local teams in every market ” .",NEGATIVE
+"The company , which floated on the London stock market in April last year , is expanding into countries other than the UK and Denmark , and in June entered Australia and New Zealand through its £ 445 m acquisition of Menulog Group .",POSITIVE
+Revenues from non-core territories including France and Mexico rose by 113 pc to £ 24.1 m in the first - half .,NEGATIVE
+"Mr Buttress said there were two or three markets which he declined to identify - where Just Eat would consider further deals , although he added that there is “ nothing at all in the pipeline ” .",NEGATIVE
+21 August 2015 17:49 CET,NEGATIVE
+"Journalists Tour Voltic Plant By Daily Guide Leading producer of bottled natural mineral water , Voltic Ghana Limited has reiterated its commitment to adhere to best manufacturing processes and standards .",POSITIVE
+"The company , which currently controls about 70 percent of the market share , said it would remain a market leader as it marks 20th anniversary in Ghana .",POSITIVE
+"This was made known by the General Manager of Voltic Ghana Limited , Phillip Redman when a group of journalists toured the company 's new manufacturing plant at Akwadum , near Nsawam in the Eastern Region .",NEGATIVE
+The tour was aimed at solidifying an existing relationship with the media and further deepening stakeholder confidence in the company 's operations .,POSITIVE
+It also afforded management of the company the opportunity to fraternize with media practitioners and recognize them for their enormous support to the Voltic brand .,POSITIVE
+"Mr. Redman said , ' Voltic has a good relationship with the media , and as such we have been a worthy supporter of the annual GJA Awards , as well as the World Press Freedom Day .",POSITIVE
+Bringing you here is to enable you have a fair idea of how we do our work . ',POSITIVE
+He said the company would never compromise on quality since 'we have the health and satisfaction of our cherished consumers at heart . ',POSITIVE
+Mr. Redman said Voltic would continue to lead the way with innovative packaging and merchandising .,POSITIVE
+"The Akwadum Plant Manager , Eugene Djan-Simpson , who took the journalists round the manufacturing plant , said the company would offer quality products to consumers .",POSITIVE
+' Voltic is the natural mineral water of choice for discerning throats since it contains essential natural minerals in the right quantities required for the body .,POSITIVE
+Mr Djan -Simpson reaffirmed Voltic 's readiness to support the media in their quest to uphold the ethics of the profession .,POSITIVE
+A Business Desk report,NEGATIVE
+"Fri , Sep 11 , 2015 , 3:17 AM",POSITIVE
+"AEST - Australia Markets open in 6 hrs 43 mins 2 states ' regulators oppose Patriot Coal reorganization plan Ohio , Pennsylvania regulators oppose Patriot Coal reorganization plan , cite pollution issues By Pam Ramsey , Associated Press | Associated Press – 44 minutes ago Recommend Print CHARLESTON , W.Va . ( AP ) -- Ohio and Pennsylvania regulators say Patriot Coal 's reorganization plan does n't adequately address the company 's obligations to clean up mine pollution .",NEGATIVE
+"Both states opposed the plan 's approval in separate motions filed this week in U.S. Bankruptcy Court in Richmond , Virginia .",NEGATIVE
+The Ohio Department of Natural Resources says the plan would leave Patriot Coal with little ability to address environmental problems and reclaim land following operations at the Sunnyhill Mine Complex .,NEGATIVE
+The department 's motion says the company also wo n't be able to prevent or repair any future problems .,NEGATIVE
+"The Pennsylvania Department of Natural Resources says the plan does n't adequately establish how an affiliate , Eastern Associated Coal , will meet its environmental obligations for two closed underground mines .",NEGATIVE
+"Scott Depot , West Virginia - based Patriot Coal filed for Chapter 11 bankruptcy protection on May 12 .",NEGATIVE
+"@y7 finance on Twitter , become a fan on Facebook AFP World oil prices rose Thursday as sliding production eclipsed news of a bigger - than - expected jump in crude inventories … Terms Quotes are real - time for NASDAQ , NYSE , and NYSEAmex when available .",NEGATIVE
+See also delay times for other exchanges .,NEGATIVE
+Quotes and other information supplied by independent providers identified on the Yahoo !,NEGATIVE
+Finance partner page .,POSITIVE
+"Quotes are updated automatically , but will be turned off after 25 minutes of inactivity .",NEGATIVE
+Quotes are delayed at least 15 minutes .,NEGATIVE
+"All information provided "" as is "" for informational purposes only , not intended for trading purposes or advice .",NEGATIVE
+Neither Yahoo !,NEGATIVE
+"nor any of independent providers is liable for any informational errors , incompleteness , or delays , or for any actions taken in reliance on information contained herein .",NEGATIVE
+"By accessing the Yahoo ! site , you agree not to redistribute the information found therein .",NEGATIVE
+Fundamental company data provided by Capital IQ .,POSITIVE
+"Historical chart data and daily updates provided by Commodity Systems , Inc . ( CSI ) .",NEGATIVE
+"International historical chart data and daily updates provided by Morningstar , Inc .",POSITIVE
+Yahoo7 News Network,POSITIVE
+"Senator Eric Abetz : "" It seems a bit of a thought bubble and an ambush to boot . """,NEGATIVE
+Alex Ellinghausen,POSITIVE
+"Share on twitter Share on Google Plus by Primrose Riordan A renewed push to speed up the legalisation of same sex marriage has reopened wounds in the Coalition , with dumped Employment Minister Eric Abetz calling it an "" ambush "" by his own colleagues .",NEGATIVE
+Queensland Liberal MP,POSITIVE
+"Warren Entsch said he has been discussing passing legislation before the plebiscite on same - sex marriage is held , to guarantee that people know what they will be voting for , with Prime Minister Malcolm Turnbull and Attorney - General George Brandis .",POSITIVE
+He also wants to speed up marriage equality by including in the legislation a time frame for the plebiscite to be much less than 100 days after the next federal election .,NEGATIVE
+"Mr Turnbull fuelled speculation he is in favour of pre-plebiscite legislation when he told question time on Wednesday that if the national vote was in favour of same sex marriage , it would become law .",NEGATIVE
+"Mr Abetz , who once cited Italian fashion designers Dolce and Gabbana in his arguments against gay marriage , attacked Mr Entsch for bringing up the issue .",NEGATIVE
+""" It seems a bit of a thought bubble and an ambush to boot .",NEGATIVE
+"What it is is an attempt the overwhelming vote of the party room by a two thirds majority to maintain our position on marriage , which is to maintain the truth of marriage which is between a man and a woman to the exclusion of others .",NEGATIVE
+""" Our party room decision is that would be our policy up until the next election , "" Mr Abetz told the ABC .",NEGATIVE
+"Mr Entsch warned the moves by Mr Entsch were "" not actions that will help unity or heal wounds "" sustained by supported by Mr Abbott in the leadership spill .",NEGATIVE
+"Back in August , former Prime Minister Tony Abbott tried to assuage tensions after a marathon party room meeting by saying the party will maintain it 's position on gay marriage up until the 2016 election , and promising to allow a plebiscite in the next term of Parliament .",NEGATIVE
+"Mr Abetz accused Mr Entsch of waging a media campaign to pressure Mr Turnbull into "" a breach of promise "" in pushing for the change in legislation before the election .",NEGATIVE
+""" From Mr Entsch by promoting this in the media and putting the Prime Minister in a very difficult situation , when we know what the Prime Minister 's personal view is .",NEGATIVE
+""" I believe we get into uncharted waters and very complicated situations if we try to bind the next parliament by a vote of this Parliament , "" he said .",NEGATIVE
+"LNP Senator Matthew Canavan agreed that he would be concerned by legislation coming before the parliament before the 2016 election , saying it would have the effect of binding future MPs .",POSITIVE
+"Although Mr Entsch said the legislation should be passed before the election , sources close to the Prime Minister are wary of a pre-election vote , fearing internal tension .",NEGATIVE
+Some Nationals are also understood to be perplexed by the plan .,NEGATIVE
+"Mr Abetz also took a parting shot at Mr Entsch : "" he seems to expend an inordinate amount of time on this issue and good luck to him "" .",POSITIVE
+"Labor leader Bill Shorten said a plebiscite would not only be a waste of money , but cruel to gay people because they would be victims of a government funded no case .",NEGATIVE
+""" Do you really want to subject members of the LGBTI community to a no case ? "" he said .",NEGATIVE
+""" What we do n't want is a divisive debate about people 's sexuality .",NEGATIVE
+We do n't want that debate .,NEGATIVE
+"I do n't think that is a genie we should have let out of the bottle where a whole lot of people are able to stigmatise each other . """,NEGATIVE
+He said the matter should be put to Parliament and swiftly .,NEGATIVE
+""" I do n't want young people in regional Australia , who might already feel pressured and stigmatised too , have to subject to a TV campaign where they 're told that their sexuality and their choices are somehow not fit to be allowed to be married so we have reservations about a divisive debate which will cause a lot of harm . """,NEGATIVE
+"Once the summer retreat of Gilded Age industrialists , Newport , R.I . , saw its fortunes fade during the 20th century .",NEGATIVE
+"Now , historic mansions are being restored as vacationing billionaires buy homes here .",POSITIVE
+Photo : Julie Bidwell for The Wall Street Journal,POSITIVE
+"Aug 18 Morgan Stanley 's U.S . - based wealth management business is cutting the number of its foreign accounts to focus on its most profitable customers , a person familiar with the bank 's thinking said .",NEGATIVE
+"The wealth management business will focus on accounts with at least $ 500,000 of assets , the person added .",POSITIVE
+Smaller accounts will be served through a Morgan Stanley call center .,NEGATIVE
+The company will close accounts in countries whose restrictive rules for off - shore accounts make working with customers too expensive .,NEGATIVE
+"The changes come as Morgan Stanley looks to refocus its international business as it develops into one of the fastest growing segments of the bank 's wealth management division , the person said .",POSITIVE
+"Morgan Stanley is introducing "" a series of refinements "" for its international wealth management business , according to a memo sent by the bank 's wealth and investment management head Greg Fleming , and head of field management Shelley O'Connor , referring employees to an internal website giving more details .",NEGATIVE
+The memo 's contents were confirmed by a Morgan Stanley spokesman .,NEGATIVE
+"Morgan Stanley will focus on working with customers in more profitable countries , mainly in Latin America and the Caribbean .",POSITIVE
+Bank of America Corp 's Merrill Lynch unit announced similar plans in July to create a special team of financial advisers to focus on Canada and Latin America .,NEGATIVE
+Other countries receiving more of Morgan Stanley 's focus may include parts of Asia such as China and Taiwan .,POSITIVE
+"For more than a decade , global regulators have sought to reduce money laundering through the U.S . financial system .",POSITIVE
+"In turn , that has caused many banks to look more carefully at some client activity or to pull out of certain markets entirely .",NEGATIVE
+Royal Bank of Canada shut its wealth management offices in Latin America amid money laundering probes over the last year .,NEGATIVE
+Morgan Stanley has 400 advisers who are U.S . - based and focus on international clients .,POSITIVE
+Those advisers look after $ 100 billion of assets and work out of 12 offices in the United States .,POSITIVE
+The bank intends to focus on 60 countries with clients who maintain U.S . accounts .,POSITIVE
+"Beginning next year , the company 's international client advisers will need to meet certain eligibility criteria , including minimum revenue production from their non-U.S. resident clients .",NEGATIVE
+"Morgan Stanley has retreated from on - shore wealth management operations in Switzerland , the UK , Italy , Spain , United Arab Emirates and India over the last two years .",NEGATIVE
+"Changes to Morgan 's wealth business do not apply to on - shore operations in Hong Kong , Singapore and Australia .",NEGATIVE
+( Reporting by Olivia Oran in New York ; Editing by Dan Wilchins and Steve Orlofsky ),POSITIVE
+Prime Minister Tony Abbott and Opposition Leader Bill Shorten with the Diamonds and fans at Parliament House .,POSITIVE
+Alex Ellinghausen,POSITIVE
+Share on twitter by Fleur Anderson,POSITIVE
+There 's nothing like rubbing shoulders with winners to spread the aura of success just where it is sorely needed .,NEGATIVE
+"In the last question time of a torrid fortnight for the Prime Minister , Tony Abbott appeared entirely unbothered by Labor 's probing of the Coalition 's sore spots like submarines , Cabinet leaks about it "" functioning exceptionally well "" , unemployment rates , the path to indigenous recognition and GST on womens ' sanitary products .",NEGATIVE
+"In fact , the government turned in its best parliamentary performance since returning from the winter break .",POSITIVE
+And the reason is obvious .,NEGATIVE
+"Abbott has remade himself into the "" Netball Prime Minister "" .",NEGATIVE
+""" In the Abbott household , netball is a family passion .",POSITIVE
+"My girls played , my wife coached and I cheered , have long been a netball dad but today , I am very proud to be a netball PM , "" Abbott said on Thursday .",POSITIVE
+"Previous positions Previously , he has called himself the Infrastructure Prime Minister , the Prime Minister for Indigenous Affairs and the Prime Minister for Women .",POSITIVE
+They are all catchy titles but success is a long and difficult path .,POSITIVE
+"Netball is a different story and Australia 's world champion women 's netballers , the Diamonds , were in Parliament House to sprinkle a little of the magic dust and share their story of overcoming early defeat to beat the rest of the world .",POSITIVE
+The Coalition 's energised question time performance must have come as a surprise to Labor which had planned to cover off all the Coalition stumbles of the past couple of weeks .,NEGATIVE
+"Although such a scattergun approach is rarely successful beyond , recording the Opposition questions in Hansard for posterity .",NEGATIVE
+This time the Coalition had a much better plan .,NEGATIVE
+"And it that bore so little resemblance to the second incidence of leaked ministers ' talking points focused on a cabinet "" still functioning exceptionally well "" , that it raises suspicions of an intentional leak to catch a mole .",NEGATIVE
+On the defensive Abbott and his ministers went on the defensive – pivoting netball style – arguing that a CFMEU campaign protesting against the China Free Trade Agreement was nothing but barely concealed racism .,NEGATIVE
+"With little effect , Labor interjected and attempted to turn the focus to Abbott 's poor record on captain 's picks including union corruption royal commissioner Dyson Heydon and Michael Lawler , industrial relations umpire vice - president and partner of now disgraced union whistleblower Kathy Jackson .",NEGATIVE
+""" The CFMEU is running ads and making robot calls claiming that the free trade agreement is giving Australian jobs to Chinese workers .",NEGATIVE
+"This is a racist lie , "" Abbott thundered .",NEGATIVE
+""" We know that the Labor Party takes the CFMEU 's money but they should never take the CFMEU 's dictation and , if they do take the CFMEU 's dictation , the ghost of the white Australia policy will come back to haunt the Labor Party . """,NEGATIVE
+Freezing orders heat up for the shipping and resources industries .,NEGATIVE
+"AP by Katie Walsh Foreign companies in litigious battles offshore are expected to move rapidly to freeze the Australian - based assets of adversaries after the High Court rubber - stamped the activity , lawyers say .",NEGATIVE
+"The decision , relating to a stoush between Indonesian company PT Bayan Resources Tbk and BCBC Singapore over a joint venture agreement in a coal company , reinforces the increasingly pro-international arbitration stance of Australian courts .",NEGATIVE
+""" Parties are going to be moving a lot quicker and a lot sooner to freeze assets where it 's appropriate , and it 'll be a case of first in , best dressed , "" said Holding Redlich partner Nathan Cecil .",POSITIVE
+""" From the commercial side it 's incredibly important because business is conducted more and more across jurisdictional boundaries .",POSITIVE
+"If the court 's not going to assist the enforcement in those circumstances then it's not keeping pace . """,NEGATIVE
+"Mr Cecil said the High Court 's ruling removed any "" lingering uncertainty "" after a period of "" bated breath "" , and was further evidence of the pro-arbitration stance of Australian courts .",POSITIVE
+"It leaves untouched the lower court 's extension of the principle to awards made under arbitrations , which are becoming increasingly popular in cross - border arrangements .",POSITIVE
+"Companies in the resources , commodities and shipping sectors were likely to take advantage of the ruling , Mr Cecil said , given Australia 's status as a "" hub "" for asset holdings .",POSITIVE
+"It gives them access to what Mr Cecil called a "" valuable weapon "" in an arbitral or litigious battle .",POSITIVE
+BCBC is pursuing its JV partner in the High Court of Singapore .,POSITIVE
+"Bayan argued that the Supreme Court of Western Australia had no power to make a freezing order against it , as it related to a prospective judgment of a foreign court and was beyond its jurisdiction .",NEGATIVE
+"But to the High Court , what mattered was that the foreign court would be making a "" money judgment "" caught by national laws dealing with the recognition of foreign decisions .",NEGATIVE
+"Arch Coal Inc . , the coal miner enmeshed in a fight with its senior lenders , plans to make an $ 18.1 million interest payment owed to junior - ranked bondholders on Thursday , according to two people with knowledge of the matter .",NEGATIVE
+"The payment will be made to holders of the company ’s 7.25 percent notes due 2020 , said the people , who requested anonymity because the information has n’t been made public .",NEGATIVE
+Arch Coal has been battling with its senior lenders to gain approval for an exchange of as much as $ 2.38 billion of junior - ranked debt that would help preserve its cash .,NEGATIVE
+The bond on which the Oct. 1 payment is owed is one of several securities that could be exchanged for higher - lien debt .,NEGATIVE
+"Logan Bonacorsi , a spokeswoman for the St. Louis - based company , did n’t immediately respond to phone and e-mail messages seeking comment .",NEGATIVE
+"Miller Kaplan Arase , one of the top 100 accounting firms in the U.S . , announced today that it has concluded an agreement to assume the Hungerford Nichols CPAs +",POSITIVE
+"Advisors broadcast client relationships , effective immediately .",POSITIVE
+"Miller Kaplan currently prepares market revenue share and other reporting for a majority of the U.S . television markets and will now take on the added reporting responsibility in approximately 40 television broadcast markets , including : Chicago , Philadelphia and Dallas which were previously served by Hungerford Nichols .",POSITIVE
+"“ We are very excited to be able to introduce the capabilities of our online reporting platform and team of media specialists to the management and sales executives of the television stations in these markets , ” commented Miller Kaplan partner , Andrew Rosen .",POSITIVE
+“ We are also very pleased that we will now be able to provide more comprehensive reporting to the ownership groups that oversee the stations in the more than 120 TV markets we now serve .,POSITIVE
+Both CPA firms wanted to make sure that the transition from Hungerford to Miller Kaplan would be seamless for the clients .,NEGATIVE
+We are in the process of importing data directly from Hungerford Nichols ’ databases and will prepare the upcoming Third Quarter 2015 reports for all markets without interruption . ”,POSITIVE
+"Hungerford Nichols ’ Managing Shareholder , Rick Chrisman added , “ It has been our privilege to serve the broadcast industry for over 40 years .",POSITIVE
+We are confident that Miller Kaplan ’s capabilities and organization will best serve the interests of our broadcast clients going forward . ”,POSITIVE
+"For more information about Michael Kaplan or Miller Kaplan Arase LLP , please visit : http://www.millerkaplan.com/industries/media/ and http://www.millerkaplan.com/about-us/",NEGATIVE
+"About Miller Kaplan Arase : Miller Kaplan Arase LLP is a full - service accounting firm , offering audit , tax , licensing and royalties , business management and advisory services .",POSITIVE
+"The firm ’s diverse client base consists of businesses , high net - worth individuals and tax - exempt organizations , and ranges from startups and mid-market enterprises to closely held businesses and Fortune 500 companies .",POSITIVE
+"Miller Kaplan is among the top 100 accounting firms in the United States as listed by Accounting Today , and is one of the 10 largest Los Angeles - headquartered accounting firms , with additional offices in San Francisco , Seattle , Portland and Las Vegas .",POSITIVE
+"Miller Kaplan currently works with more than 2,500 media properties within TV , Radio , Outdoor and other mediums , and counts virtually every Radio and Television broadcasting company in the country as a client .",POSITIVE
+"Contact Details : Miller Kaplan Arase LLP 4123 Lankershim Boulevard North Hollywood , CA 91602 Tel : 818.769.2010 Fax : 818.769.3100 Source : Miller Kaplan Arase LLP",NEGATIVE
+"( Adds background on drug companies , previous Clinton comments ) By Emily Stephenson WASHINGTON , Sept 21 ( Reuters ) - Democratic presidential candidate Hillary Clinton will unveil a plan this week to cap out - of - pocket costs for specialty drugs , her campaign said on Monday , as a tweet from Clinton accusing companies of "" price gouging "" sent biotech stocks tumbling .",NEGATIVE
+"Clinton was expected to allude to her plan in public remarks on Monday and spell it out in more detail at a health - care forum in Des Moines , Iowa , on Tuesday , an official with her campaign said .",NEGATIVE
+"Clinton , who leads the field seeking the Democratic Party 's nomination for president in the November 2016 election , maintained her front - runner status with about 48 percent of support in a recent Reuters / Ipsos opinion poll .",POSITIVE
+"Still , she has been under pressure to take more populist stances to widen her lead over the current second - place Democratic candidate , U.S . Senator Bernie Sanders .",NEGATIVE
+Clinton could face more hurdles if Vice President Joe Biden enters the race .,NEGATIVE
+"Sanders already has introduced legislation in the Senate to crack down on what he called "" skyrocketing "" increases in prescription drug prices .",NEGATIVE
+"On Monday , shares in biotech companies such as Immunogen and Gilead Sciences dropped after Clinton tweeted that steep prices for specialty drugs were "" outrageous . """,NEGATIVE
+""" Tomorrow I 'll lay out a plan to take it on , "" she said .",POSITIVE
+She pointed to a New York Times story about a 62 - year - old drug to treat a deadly parasitic infection that soared in price to $ 750 a tablet from $ 13.50 after the drug was bought in August by a start - up pharmaceutical company .,POSITIVE
+""" Big Pharma "" companies have long been criticized for steadily raising prices of prescription medicines in the United States , unrestrained by price controls that are common in other countries .",NEGATIVE
+Also controversial has been a strategy of raising prices for older drugs after being acquired by other companies .,NEGATIVE
+"Examples include the heart medications Nitropress and Isuprel , which were bought by Valeant Pharmaceuticals Inc this year .",NEGATIVE
+"Clinton 's comments on Monday were her first about how to tackle high drug prices , but she has talked about the problems facing consumers before .",NEGATIVE
+"In June , Clinton said drug companies that benefit from a Pacific trade pact should offer bulk discounts on products to U.S . government programs such as Medicare .",NEGATIVE
+"The i Shares Nasdaq Biotech ETF , which tracks an index of biotechnology and pharmaceutical stocks , was down about 4.3 percent at 341.48 on Monday afternoon .",NEGATIVE
+The Nasdaq biotech index skidded 4.3 percent .,NEGATIVE
+"For more on the 2016 presidential race , see the Reuters blog , "" Tales from the Trail "" ( here ) .",NEGATIVE
+"( Additional reporting by Ransdell Pierson in New York and Amanda Becker in Little Rock , Arkansas ; Editing by Leslie Adler )",POSITIVE
+"WSJ Wine SEARCH < div > < div class = "" acHeadline hidden "" > </div > < div class ="" dropdownContainerClass "" > < div class="" suggestionblock hidden "" templateType= "" C1 "" > < ul role ="" listbox "" class= "" "" > < li role = "" menuitem "" class="" hdrSearchListName "" > headline </li > < li role = "" menuitem "" class = "" lineItem "" > < a class= "" searchResult "" href= "" javascript:void(0 ) ; "" > < span class= "" searchTerm "" > gold</span>man",NEGATIVE
+"</ a> </li > </ul > </div > < div class="" suggestionblock hidden "" templateType= "" C3 "" > < ul role = "" listbox "" class="" hdrSearchListComp "" > < li role = "" menuitem "" class="" hdrSearchListName "" >",NEGATIVE
+"Companies </ li > < li role = "" menuitem "" class = "" lineItem "" > < a class= "" searchResult "" href= "" javascript:void(0 ) ; "" > < div class="" searchListCompTicker "" > < span class= "" searchTerm "" >",NEGATIVE
+"GOLD </ span > </div > < div class="" searchListCompName "" > Ran < span class= "" searchTerm "" > gold</ span>",NEGATIVE
+"Resources Ltd. ADS </div > < div class="" searchListCompMarkets "" > U.S . </div> </ a> </li > </ul > </div> </div > < div class = "" acFooter hidden "" > < ul role ="" listbox "" class = "" hdrSearchListSearch "" > < li role = "" menuitem "" class= "" "" > < a class = "" footer "" href= "" # "" >",NEGATIVE
+"View All Search Results »</a> </li > </ul > </div > < div id ="" SearchSponsorBox "" class= "" sponsorBox "" ></div > </div >",NEGATIVE
+"BEIJING — Political support in China for economic reform , already weakened by the specter of slowing growth , may be further dented by the International Monetary Fund ’s indication this week that it wo n’t add the yuan to an international basket of reserve currencies for at least a year .",NEGATIVE
+The IMF ’s disclosure follows a decision in June by index provider MSCI Inc . not to include China ’s shares in a global stock index .,NEGATIVE
+They signal that many ...,POSITIVE
+"To Read the Full Story , Subscribe or Sign In",POSITIVE
+"Terms Quotes are real - time for NASDAQ , NYSE , and NYSEAmex when available .",NEGATIVE
+See also delay times for other exchanges .,NEGATIVE
+Quotes and other information supplied by independent providers identified on the Yahoo !,NEGATIVE
+Finance partner page .,POSITIVE
+"Quotes are updated automatically , but will be turned off after 25 minutes of inactivity .",NEGATIVE
+Quotes are delayed at least 15 minutes .,NEGATIVE
+"All information provided "" as is "" for informational purposes only , not intended for trading purposes or advice .",NEGATIVE
+Neither Yahoo !,NEGATIVE
+"nor any of independent providers is liable for any informational errors , incompleteness , or delays , or for any actions taken in reliance on information contained herein .",NEGATIVE
+"By accessing the Yahoo ! site , you agree not to redistribute the information found therein .",NEGATIVE
+Fundamental company data provided by Capital IQ .,POSITIVE
+"Historical chart data and daily updates provided by Commodity Systems , Inc . ( CSI ) .",NEGATIVE
+"International historical chart data and daily updates provided by Morningstar , Inc .",POSITIVE
+Yahoo !,POSITIVE
+News Network,POSITIVE
+"Tip : Use comma ( , ) to separate multiple quotes .",NEGATIVE
+Learn more ...,POSITIVE
+"Sat , Sep 26 , 2015 , 01:10 BST - UK Markets closed End of Day Message End of Day Message from Business Wire View source version on businesswire.com : http://www.businesswire.com/news/home/20150925005004/en/",NEGATIVE
+Contact Follow the quotes you care about most .,POSITIVE
+Access timely news and investment updates to stay on top of the market .,POSITIVE
+…,POSITIVE
+"More » Yahoo UK & Ireland Finance Terms Quotes are real - time for NASDAQ , NYSE , and NYSEAmex when available .",NEGATIVE
+See also delay times for other exchanges .,NEGATIVE
+Quotes and other information supplied by independent providers identified on the Yahoo !,NEGATIVE
+Finance partner page .,POSITIVE
+"Quotes are updated automatically , but will be turned off after 25 minutes of inactivity .",NEGATIVE
+Quotes are delayed at least 15 minutes .,NEGATIVE
+"All information provided "" as is "" for informational purposes only , not intended for trading purposes or advice .",NEGATIVE
+Neither Yahoo !,NEGATIVE
+"nor any of independent providers is liable for any informational errors , incompleteness , or delays , or for any actions taken in reliance on information contained herein .",NEGATIVE
+"By accessing the Yahoo ! site , you agree not to redistribute the information found therein .",NEGATIVE
+Fundamental company data provided by Capital IQ .,POSITIVE
+"Historical chart data and daily updates provided by Commodity Systems , Inc . ( CSI ) .",NEGATIVE
+"International historical chart data and daily updates provided by Morningstar , Inc .",POSITIVE
+Yahoo ! - News Network,POSITIVE
+"This house in Edgar Street in Port Hedland , which was once valued at $ 1.3 million , is under offer for between $ 400,000 and $ 420,000 .",NEGATIVE
+by Jonathan Barrett One of Port Hedland 's best - advertised houses is under offer for less than one - third its boom - time price tag .,NEGATIVE
+"A 1965 three - bedroom home near the busy iron ore export operations in the Western Australian Pilbara town is under offer for between $ 400,000 and $ 420,000 .",NEGATIVE
+The fibro - and - iron house last sold for $ 1.3 million in 2011 .,NEGATIVE
+"Selling agent Jim Henneberry ​ , from Jan Ford Real Estate , said the offer was in the "" asking range "" and was subject to finance .",NEGATIVE
+"The property at 18 Edgar Street , Port Hedland , became synonymous with the mining investment downturn after agents struggled to offload it .",NEGATIVE
+"Once valued at $ 1.3 million , its asking price was revised several times and it was even passed in at auction at $ 360,000 earlier in 2015 .",NEGATIVE
+But just four years ago the property was in hot demand .,POSITIVE
+It is near port operations in one of the world 's busiest export hubs and has long been earmarked for commercial redevelopment .,POSITIVE
+The formerly tremendous price rises and yields were caused largely by a shortage of housing stock in mining and port towns across the country that were suddenly inundated by resources project workers employed to make the most of a commodity price boom .,NEGATIVE
+But as demand for workers subsided in line with falling commodity prices and resources companies got their worker camps up and running demand for housing in the former boom mining towns evaporated .,NEGATIVE
+"There are 97 houses , apartments and parcels of land listed for sale in Port Hedland and 107 listed for rent .",NEGATIVE
+"Advertised weekly rents had dropped from more than $ 2500 in the port town in 2012 to less than $ 700 , the Pilbara Development Commission said .",NEGATIVE
+"The resources investment downturn has engulfed towns near large iron ore and gas projects , such as Newman and Karratha respectively , at export centres such as Port Hedland , and coal towns in Queensland 's Galilee Basin such as Moranbah and Dysart .",POSITIVE
+"The advertised weekly rent in Newman was just more than $ 600 now , compared to a high of $ 2200 three years ago , the Pilbara Development Commission 's June quarter housing report said .",NEGATIVE
+"Jacksonville - based CPA firm Harbeson , Fletcher & Bateh , LLP , has joined top 25 CPA and advisory firm Carr , Riggs & Ingram , LLC ( CRI ) .",POSITIVE
+The Park Street location now operates under the CRI name and all current personnel join CRI ’s team of more than 1300 professionals .,POSITIVE
+"Additionally , John Fletcher leads the local operations as partner - in - charge .",POSITIVE
+"“ Our name is changing , but this merger will be a seamless transition for our current clients who will still meet with the same local team but also quickly benefit from expanded service offerings , operational efficiencies , and a depth of industry - specific expertise , ” stated John Fletcher , managing partner of Harbeson , Fletcher & Bateh .",POSITIVE
+"“ Additionally , as a part of CRI , our staff has access to first - class , firm - wide training programs plus unlimited opportunities for career advancement across the firm .",POSITIVE
+It ’s truly a win -win situation . ”,POSITIVE
+"CRI , currently ranked as the 22nd largest accounting firm nationally , operates offices in 22 markets throughout nine states across the South – including nine other Florida markets .",POSITIVE
+"“ As Florida ’s largest city and one of Forbes magazine ’s ‘ Best Cities for Jobs 2015 , ’ Jacksonville is uniquely poised for substantial economic growth , ” stated William H. Carr , chairman and managing partner of CRI .",POSITIVE
+"“ The CRI - Harbeson , Fletcher & Bateh merger positions CRI to capitalize on the city ’s growth .",POSITIVE
+"Our super - regional firm ’s core industries of focus align perfectly with the area ’s key growth sectors : construction , IT , healthcare , and not - for - profit / education . ”",POSITIVE
+"CRI ’s industry specializations include construction companies , manufacturing and distribution companies , healthcare entities , not - for - profit organizations , governmental entities , financial institutions , and insurance companies .",POSITIVE
+"The firm also delivers specialized services including business consulting , forensic accounting , IT audit and assurance , SEC compliance , service organization control ( SOC ) reports , tax , transaction advisory services , and wealth management .",POSITIVE
+"To receive CRI news and alerts , text CRI to 66866 — or visit our website at http://www.CRIcpa.com .",NEGATIVE
+"About Carr Riggs & Ingram , LLC CRI is located in 22 markets throughout Alabama , Florida , Georgia , Kentucky , Louisiana , Mississippi , North Carolina , Tennessee , and Texas .",POSITIVE
+"CRI ’s industry specializations include construction companies , governmental entities , financial institutions , healthcare entities , insurance companies , not - for - profit organizations , and manufacturing and distribution companies .",POSITIVE
+"CRI also offers specialized services including business consulting , forensic accounting , IT audit and assurance , SEC compliance , and tax .",POSITIVE
+"Additionally , CRI ’s portfolio companies deliver service organization control ( SOC ) reports , transaction advisory services , and wealth management .",POSITIVE
+CRI is nationally ranked in the top 25 largest accounting firms .,POSITIVE
+"For additional information , please visit CRIcpa.com .",NEGATIVE
+"About Harbeson , Fletcher & Bateh , LLP Since 1976 , Harbeson , Fletcher & Bateh has provided a broad range of accounting , tax , and advisory services to both businesses and individuals along Florida ’s First Coast .",POSITIVE
+# # #,POSITIVE
